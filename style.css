@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgba(75, 151, 250, 0.445);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: rgb(80, 100, 143);
+}
+
+
+.logo{
+    height: 40px; 
+    width: 50px;}
+    
+.work{
+height:1000px;
+width: 600px;
+
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      text-align:center;
+      margin: auto;
+      color: rgb(80, 100, 143);}
+      
+
+      
+.center{
+    text-align: center;}
+.font{font-family: "Times New Roman", Times, serif;}
+.font2{ font-family: Geneva, Verdana, sans-serif;}
